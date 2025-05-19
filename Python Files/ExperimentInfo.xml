@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NETSIM_EXPERIMENTS NAME="Attack_detection_in_IoT">
+  <EXPERIMENT>
+    <NAME>Plot-Scripts</NAME>
+    <DATE>04/09/2025 3:55 PM</DATE>
+    <NETWORK>Folder</NETWORK>
+  </EXPERIMENT>
+</NETSIM_EXPERIMENTS>
